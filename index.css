@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.services-main-heading {
+    font-family: "Roboto";
+    font-size: 28px;
+    color: #cced00;
+    margin-top: 40px;
+    font-weight: 500;
+}
+
+.background-services-container {
+    background-color: #52606d;
+}
+
+.what_i_do_services {
+    color: white;
+    /* font-family: "Roboto"; */
+    /* font-weight:bold; */
+}
+
+.images_services_page {
+    width: 60px;
+}
+
+.what_i_do_skills_name {
+    font-size: 24px;
+    color: white;
+}
+
+.paragraph {
+    color: #9aa5b1;
+    font-weight: 500;
+}
+
+.card_skills_background {
+    background-color: #323f4b;
+    border-radius: 10px;
+}
